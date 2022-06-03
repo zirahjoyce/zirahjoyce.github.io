@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20e7ad48.css",
+    "main.js": "/static/js/main.cac3621f.js",
+    "static/js/787.1fee1fb8.chunk.js": "/static/js/787.1fee1fb8.chunk.js",
+    "static/media/exper1_2021.jpg": "/static/media/exper1_2021.d13aa42d3779071af10b.jpg",
+    "static/media/exper4_2022.jpg": "/static/media/exper4_2022.3370b52e4c56a186e5ed.jpg",
+    "static/media/about_img1.jpg": "/static/media/about_img1.783f10d6251d0df408e3.jpg",
+    "static/media/profile_img.png": "/static/media/profile_img.8e8b8ef676b7ac5f13fe.png",
+    "static/media/exper2_2022.jpg": "/static/media/exper2_2022.390f955e789875815f7b.jpg",
+    "static/media/exper4_2021.jpg": "/static/media/exper4_2021.bf13430dd6b3e9f9c841.jpg",
+    "static/media/sunset_img3.png": "/static/media/sunset_img3.2c011da0ff039ba9d219.png",
+    "static/media/sunset_img2.png": "/static/media/sunset_img2.345084e36424f30b1ff2.png",
+    "static/media/sunset_img5.png": "/static/media/sunset_img5.1fb4bfe79fd1e58250e6.png",
+    "static/media/sunset_img1.png": "/static/media/sunset_img1.9524102a1d284db557b8.png",
+    "static/media/exper1_2022.jpg": "/static/media/exper1_2022.65a916c8ba84b83ce8c3.jpg",
+    "static/media/exper2_2021.jpg": "/static/media/exper2_2021.05b6625200bf6c70f9fc.jpg",
+    "static/media/exper3_2021.jpg": "/static/media/exper3_2021.7d0481b6c2033ec8144a.jpg",
+    "static/media/sunset_img4.png": "/static/media/sunset_img4.b610e78b4acc18fd6268.png",
+    "static/media/about_img3.jpg": "/static/media/about_img3.1354285ffaa1b10b28c1.jpg",
+    "static/media/exper3_2022.jpg": "/static/media/exper3_2022.dcc52cb5d76c60dc99f8.jpg",
+    "static/media/about_img2.jpg": "/static/media/about_img2.338523bee11d241c9837.jpg",
+    "static/media/travel_img1.jpg": "/static/media/travel_img1.24c38ce4b27c68a4b52a.jpg",
+    "static/media/travel_img3.jpg": "/static/media/travel_img3.84feb746b7a1e55a041b.jpg",
+    "static/media/travel_img4.jpg": "/static/media/travel_img4.dc17e248b9d4b6e79b91.jpg",
+    "static/media/travel_img2.jpg": "/static/media/travel_img2.5ae882cd40a4c8404a33.jpg",
+    "static/media/travel_img5.jpg": "/static/media/travel_img5.1a4e19177d2c888bfc13.jpg",
+    "static/media/UnicaOne-Regular.ttf": "/static/media/UnicaOne-Regular.90ec15d7871c61ab18f9.ttf",
+    "static/media/logo_img.png": "/static/media/logo_img.1cc89dd9fc65e7dff733.png",
+    "index.html": "/index.html",
+    "main.20e7ad48.css.map": "/static/css/main.20e7ad48.css.map",
+    "main.cac3621f.js.map": "/static/js/main.cac3621f.js.map",
+    "787.1fee1fb8.chunk.js.map": "/static/js/787.1fee1fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20e7ad48.css",
+    "static/js/main.cac3621f.js"
+  ]
+}
